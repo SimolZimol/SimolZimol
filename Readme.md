@@ -19,7 +19,7 @@ I'm Simon, a passionate developer with a love for coding and creating innovative
 
 ## Get in Touch
 
-- Discord: [SimolZimol](discordapp.com/users/253922739709018114)
+- Discord: [SimolZimol](https://discordapp.com/users/253922739709018114)
 - Twitter: [@simolzimol](https://twitter.com/simolzimol)
 
 Feel free to explore my repositories and get in touch if you're interested in any of my projects or if you'd like to collaborate. Let's create something amazing together!
